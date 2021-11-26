@@ -1,3 +1,4 @@
+node{
 def call(String sayWhat="nothing"){
     if(sayWhat=="hi"){
         script{
@@ -20,4 +21,5 @@ def call(String sayWhat="nothing"){
             """
          }
     }
+}
 }
